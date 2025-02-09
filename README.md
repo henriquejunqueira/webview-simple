@@ -1,4 +1,4 @@
-#
+# Repositório para o projeto de navegador flutuante com ElectronJS
 
 ### Configurando projeto
 
